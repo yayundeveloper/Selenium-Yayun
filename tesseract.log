@@ -1,0 +1,112 @@
+ERROR:root:Traceback (most recent call last):
+  File "c:\Users\贺顷美美\Desktop\Selenium yayun\TesseractPy3.py", line 46, in image_to_string
+    call_tesseract(image, TEMP_RESULT_NAME, lang)
+  File "c:\Users\贺顷美美\Desktop\Selenium yayun\TesseractPy3.py", line 38, in call_tesseract
+    proc = subprocess.Popen(args)
+  File "C:\Users\贺顷美美\AppData\Local\Programs\Python\Python39\lib\subprocess.py", line 947, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\贺顷美美\AppData\Local\Programs\Python\Python39\lib\subprocess.py", line 1416, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+  File "c:\Users\贺顷美美\.vscode\extensions\ms-python.python-2020.9.114305\pythonFiles\lib\python\debugpy\_vendored\pydevd\_pydev_bundle\pydev_monkey.py", line 632, in new_CreateProcess
+    return getattr(_subprocess, original_name)(app_name, cmd_line, *args)
+FileNotFoundError: [WinError 2] 系统找不到指定的文件。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\贺顷美美\Desktop\Selenium yayun\TesseractPy3.py", line 52, in image_to_string
+    call_tesseract(TEMP_IMAGE_NAME, TEMP_RESULT_NAME, lang)
+  File "c:\Users\贺顷美美\Desktop\Selenium yayun\TesseractPy3.py", line 38, in call_tesseract
+    proc = subprocess.Popen(args)
+  File "C:\Users\贺顷美美\AppData\Local\Programs\Python\Python39\lib\subprocess.py", line 947, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\贺顷美美\AppData\Local\Programs\Python\Python39\lib\subprocess.py", line 1416, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+  File "c:\Users\贺顷美美\.vscode\extensions\ms-python.python-2020.9.114305\pythonFiles\lib\python\debugpy\_vendored\pydevd\_pydev_bundle\pydev_monkey.py", line 632, in new_CreateProcess
+    return getattr(_subprocess, original_name)(app_name, cmd_line, *args)
+FileNotFoundError: [WinError 2] 系统找不到指定的文件。
+
+ERROR:root:Traceback (most recent call last):
+  File "c:\Users\贺顷美美\Desktop\Selenium yayun\TesseractPy3.py", line 46, in image_to_string
+    call_tesseract(image, TEMP_RESULT_NAME, lang)
+  File "c:\Users\贺顷美美\Desktop\Selenium yayun\TesseractPy3.py", line 38, in call_tesseract
+    proc = subprocess.Popen(args)
+  File "C:\Users\贺顷美美\AppData\Local\Programs\Python\Python39\lib\subprocess.py", line 947, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\贺顷美美\AppData\Local\Programs\Python\Python39\lib\subprocess.py", line 1416, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+  File "c:\Users\贺顷美美\.vscode\extensions\ms-python.python-2020.9.114305\pythonFiles\lib\python\debugpy\_vendored\pydevd\_pydev_bundle\pydev_monkey.py", line 632, in new_CreateProcess
+    return getattr(_subprocess, original_name)(app_name, cmd_line, *args)
+FileNotFoundError: [WinError 2] 系统找不到指定的文件。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\贺顷美美\Desktop\Selenium yayun\TesseractPy3.py", line 52, in image_to_string
+    call_tesseract(TEMP_IMAGE_NAME, TEMP_RESULT_NAME, lang)
+  File "c:\Users\贺顷美美\Desktop\Selenium yayun\TesseractPy3.py", line 38, in call_tesseract
+    proc = subprocess.Popen(args)
+  File "C:\Users\贺顷美美\AppData\Local\Programs\Python\Python39\lib\subprocess.py", line 947, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\贺顷美美\AppData\Local\Programs\Python\Python39\lib\subprocess.py", line 1416, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+  File "c:\Users\贺顷美美\.vscode\extensions\ms-python.python-2020.9.114305\pythonFiles\lib\python\debugpy\_vendored\pydevd\_pydev_bundle\pydev_monkey.py", line 632, in new_CreateProcess
+    return getattr(_subprocess, original_name)(app_name, cmd_line, *args)
+FileNotFoundError: [WinError 2] 系统找不到指定的文件。
+
+ERROR:root:Traceback (most recent call last):
+  File "c:\Users\贺顷美美\Desktop\Selenium yayun\TesseractPy3.py", line 46, in image_to_string
+    call_tesseract(image, TEMP_RESULT_NAME, lang)
+  File "c:\Users\贺顷美美\Desktop\Selenium yayun\TesseractPy3.py", line 38, in call_tesseract
+    proc = subprocess.Popen(args)
+  File "C:\Users\贺顷美美\AppData\Local\Programs\Python\Python39\lib\subprocess.py", line 947, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\贺顷美美\AppData\Local\Programs\Python\Python39\lib\subprocess.py", line 1416, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+  File "c:\Users\贺顷美美\.vscode\extensions\ms-python.python-2020.9.114305\pythonFiles\lib\python\debugpy\_vendored\pydevd\_pydev_bundle\pydev_monkey.py", line 632, in new_CreateProcess
+    return getattr(_subprocess, original_name)(app_name, cmd_line, *args)
+FileNotFoundError: [WinError 2] 系统找不到指定的文件。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\贺顷美美\Desktop\Selenium yayun\TesseractPy3.py", line 52, in image_to_string
+    call_tesseract(TEMP_IMAGE_NAME, TEMP_RESULT_NAME, lang)
+  File "c:\Users\贺顷美美\Desktop\Selenium yayun\TesseractPy3.py", line 38, in call_tesseract
+    proc = subprocess.Popen(args)
+  File "C:\Users\贺顷美美\AppData\Local\Programs\Python\Python39\lib\subprocess.py", line 947, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\贺顷美美\AppData\Local\Programs\Python\Python39\lib\subprocess.py", line 1416, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+  File "c:\Users\贺顷美美\.vscode\extensions\ms-python.python-2020.9.114305\pythonFiles\lib\python\debugpy\_vendored\pydevd\_pydev_bundle\pydev_monkey.py", line 632, in new_CreateProcess
+    return getattr(_subprocess, original_name)(app_name, cmd_line, *args)
+FileNotFoundError: [WinError 2] 系统找不到指定的文件。
+
+ERROR:root:Traceback (most recent call last):
+  File "c:\Users\贺顷美美\Desktop\Selenium yayun\TesseractPy3.py", line 46, in image_to_string
+    call_tesseract(image, TEMP_RESULT_NAME, lang)
+  File "c:\Users\贺顷美美\Desktop\Selenium yayun\TesseractPy3.py", line 38, in call_tesseract
+    proc = subprocess.Popen(args)
+  File "C:\Users\贺顷美美\AppData\Local\Programs\Python\Python39\lib\subprocess.py", line 947, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\贺顷美美\AppData\Local\Programs\Python\Python39\lib\subprocess.py", line 1416, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+  File "c:\Users\贺顷美美\.vscode\extensions\ms-python.python-2020.9.114305\pythonFiles\lib\python\debugpy\_vendored\pydevd\_pydev_bundle\pydev_monkey.py", line 632, in new_CreateProcess
+    return getattr(_subprocess, original_name)(app_name, cmd_line, *args)
+FileNotFoundError: [WinError 2] 系统找不到指定的文件。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\贺顷美美\Desktop\Selenium yayun\TesseractPy3.py", line 52, in image_to_string
+    call_tesseract(TEMP_IMAGE_NAME, TEMP_RESULT_NAME, lang)
+  File "c:\Users\贺顷美美\Desktop\Selenium yayun\TesseractPy3.py", line 38, in call_tesseract
+    proc = subprocess.Popen(args)
+  File "C:\Users\贺顷美美\AppData\Local\Programs\Python\Python39\lib\subprocess.py", line 947, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\贺顷美美\AppData\Local\Programs\Python\Python39\lib\subprocess.py", line 1416, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+  File "c:\Users\贺顷美美\.vscode\extensions\ms-python.python-2020.9.114305\pythonFiles\lib\python\debugpy\_vendored\pydevd\_pydev_bundle\pydev_monkey.py", line 632, in new_CreateProcess
+    return getattr(_subprocess, original_name)(app_name, cmd_line, *args)
+FileNotFoundError: [WinError 2] 系统找不到指定的文件。
+
